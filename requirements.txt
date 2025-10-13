@@ -1,0 +1,15 @@
+flask 
+flask-cors 
+python-dotenv 
+supabase 
+postgrest 
+requests
+PyMuPDF 
+spacy 
+dash 
+plotly 
+networkx 
+google-generativeai 
+beautifulsoup4 
+lxml
+streamlit
