@@ -9,6 +9,7 @@ spacy
 dash 
 plotly 
 matplotlib
+pdfplumber
 networkx 
 google-generativeai 
 beautifulsoup4 
