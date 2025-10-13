@@ -8,6 +8,7 @@ PyMuPDF
 spacy 
 dash 
 plotly 
+matplotlib
 networkx 
 google-generativeai 
 beautifulsoup4 
