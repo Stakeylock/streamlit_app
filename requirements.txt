@@ -14,5 +14,7 @@ networkx
 google-generativeai 
 beautifulsoup4 
 lxml
+pillow==10.4.0
+numpy==1.26.4
 streamlit
 adjustText
